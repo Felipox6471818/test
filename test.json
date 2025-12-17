@@ -1,5 +1,6 @@
-[
-  "ID",
-  "ID-2",
-  "23B46C5FED-AEFDE6A550-5708E11FFE"
-]
+{
+  "authorized_hwids": [
+    "XXXXXXX-XXXXXXXXXXXX-XXXXX",
+    "23B46C5FED-AEFDE6A550-5708E11FFE"
+  ]
+}
